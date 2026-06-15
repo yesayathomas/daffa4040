@@ -1,4 +1,4 @@
-<div align="center">
+
 
 <!-- HEADER GIF CYBER -->
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/Cool-Coding-Gif.gif" width="800" alt="Animated Cyber Header" style="border-radius: 15px;" />
